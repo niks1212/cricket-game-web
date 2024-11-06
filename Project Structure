@@ -1,0 +1,9 @@
+cricket-game/
+├── app/
+│   ├── index.html
+│   ├── login.html
+│   ├── styles.css
+│   └── cricket-photo.jpg
+├── Dockerfile
+├── .dockerignore
+└── docker-compose.yml
